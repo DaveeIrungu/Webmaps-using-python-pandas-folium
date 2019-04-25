@@ -1,0 +1,18 @@
+name,latitude,longitude,location
+Patience,-1.438223, 37.046809,on
+Imani,-1.438745, 37.046974,on
+Grace,-1.439633, 37.046982,on
+Volleyball,-1.438526, 37.047479,on
+Library,-1.440568, 37.049606,on
+Amphitheatre,-1.442215, 37.049023,on
+PAC,-1.439515, 37.048486,on
+LukenyaGetaway,-1.446587, 37.044221,off
+LukenyaSecondary,-1.444848, 37.053939,off
+LukenyaBoys,-1.446292, 37.055219,off
+OCHostel,-1.438698, 37.043613,off
+SobemoHostel,-1.434612, 37.045811,off
+PineBreezeGetaway,-1.434652, 37.039178,off
+EvergreenHostel,-1.437363, 37.043335,off
+KravesLounge,-1.438505, 37.045039,off
+FreedomBaseCamp,-1.451174, 37.051974,off
+HockeyPitch,-1.448612, 37.048737,on
